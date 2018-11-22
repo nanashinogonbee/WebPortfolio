@@ -5,7 +5,7 @@
 
 [Node](https://github.com/nanashinogonbee/NodeJS)
 
-DTD: [наименьший:](https://kodaktor.ru/x/unsafe_3d7b3), [строжайший:](https://kodaktor.ru/x/unsafe_85449), [часть 3:](https://kodaktor.ru/x/unsafe_a555b)
+DTD: [наименьший](https://kodaktor.ru/x/unsafe_3d7b3), [строжайший](https://kodaktor.ru/x/unsafe_85449), [часть 3](https://kodaktor.ru/x/unsafe_a555b)
 
 [lab 06.09.2018 / 08.09.2018](https://kodaktor.ru/d35adc3)
 
@@ -40,6 +40,8 @@ binding (WIP)
 
 promises, async/await (WIP)
 
-DOM: [задание 1](https://kodaktor.ru/13112018_b144f), [задание 2](https://kodaktor.ru/rates_0e36c)
+[13.11.2018](https://kodaktor.ru/13112018_b144f)
+
+DOM: [задание 1](https://kodaktor.ru/fc9fd22), [задание 2](https://kodaktor.ru/rates_0e36c)
 
 [Всплывание](https://kodaktor.ru/custom_938d9)
