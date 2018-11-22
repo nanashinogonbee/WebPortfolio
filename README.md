@@ -3,13 +3,13 @@
 
 ## tasks
 
-[Node] (https://github.com/nanashinogonbee/NodeJS)
+[Node](https://github.com/nanashinogonbee/NodeJS)
 
-DTD: [наименьший:] (https://kodaktor.ru/x/unsafe_3d7b3), [строжайший:](https://kodaktor.ru/x/unsafe_85449), [часть 3:](https://kodaktor.ru/x/unsafe_a555b)
+DTD: [наименьший:](https://kodaktor.ru/x/unsafe_3d7b3), [строжайший:](https://kodaktor.ru/x/unsafe_85449), [часть 3:](https://kodaktor.ru/x/unsafe_a555b)
 
 [lab 06.09.2018 / 08.09.2018](https://kodaktor.ru/d35adc3)
 
-[XSD] (https://kodaktor.ru/10112018_976e3)
+[XSD](https://kodaktor.ru/10112018_976e3)
 
 XSL (WIP)
 
@@ -17,7 +17,7 @@ XSL (WIP)
 
 [JS 2 - functions](https://kodaktor.ru/task_func_249ef)
 
-[dependencies] (https://github.com/nanashinogonbee/WebPortfolio/blob/master/dependencies.js)
+[dependencies](https://github.com/nanashinogonbee/WebPortfolio/blob/master/dependencies.js)
 
 flow:
 
