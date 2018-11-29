@@ -45,3 +45,5 @@ promises, async/await (WIP)
 DOM: [задание 1](https://kodaktor.ru/fc9fd22), [задание 2](https://kodaktor.ru/rates_0e36c)
 
 [Всплывание](https://kodaktor.ru/custom_938d9)
+
+[29.11.2018](https://kodaktor.ru/e4df47c)
