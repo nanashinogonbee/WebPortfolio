@@ -11,7 +11,7 @@ DTD: [наименьший](https://kodaktor.ru/x/unsafe_3d7b3), [строжай
 
 [XSD](https://kodaktor.ru/10112018_976e3)
 
-XSL (WIP)
+[XSL](https://github.com/nanashinogonbee/WebPortfolio/tree/master/XSL)
 
 [JS 1 - introduction](https://kodaktor.ru/task_aeeaf)
 
