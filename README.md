@@ -49,9 +49,7 @@ DOM: [задание 1](https://kodaktor.ru/fc9fd22), [задание 2](https:/
 [29.11.2018](https://kodaktor.ru/e4df47c)
 
 06.12.2018:
-
 [heroku](https://let-me-create-this-app.herokuapp.com/add?a=235&b=234), [github](https://github.com/nanashinogonbee/herokuTest)
 
 13.12.2018:
-
 [heroku](https://pug-test.herokuapp.com/users), [github](https://github.com/nanashinogonbee/pugTest)
