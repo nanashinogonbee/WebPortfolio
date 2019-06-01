@@ -1,7 +1,7 @@
 # WebPortfolio
-3rd semester, web - portfolio
+3 семестр, веб - портфолио
 
-## tasks
+## задания
 
 [Node](https://github.com/nanashinogonbee/NodeJS)
 
@@ -13,11 +13,11 @@ DTD: [наименьший](https://kodaktor.ru/x/unsafe_3d7b3), [строжай
 
 XSL (WIP)
 
-[JS 1 - introduction](https://kodaktor.ru/task_aeeaf)
+[JS 1 - введение](https://kodaktor.ru/task_aeeaf)
 
-[JS 2 - functions](https://kodaktor.ru/task_func_249ef)
+[JS 2 - функции](https://kodaktor.ru/task_func_249ef)
 
-[dependencies](https://github.com/nanashinogonbee/WebPortfolio/blob/master/dependencies.js)
+[зависимости](https://github.com/nanashinogonbee/WebPortfolio/blob/master/dependencies.js)
 
 flow:
 
@@ -27,18 +27,18 @@ flow:
 
 [jsdoc](https://nanashinogonbee.github.io/RGBtoCSS/)
 
-[counter](https://kodaktor.ru/2c4cefb_69228)
+[счётчик](https://kodaktor.ru/2c4cefb_69228)
 
 [IIFE](https://kodaktor.ru/16102018_01fae)
 
-[week 7](https://kodaktor.ru/e9861dd)
+[неделя 7](https://kodaktor.ru/e9861dd)
 
-binding (WIP)
+байндинг (WIP)
 
-[callbacks](https://kodaktor.ru/30102018_330a5)
-[(via fetch)](https://kodaktor.ru/30102018_88acd)
+[коллбэки](https://kodaktor.ru/30102018_330a5)
+[(через fetch)](https://kodaktor.ru/30102018_88acd)
 
-promises, async/await (WIP)
+промисы, async/await (WIP)
 
 [13.11.2018](https://kodaktor.ru/13112018_b144f)
 
